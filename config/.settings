@@ -1,0 +1,17 @@
+{
+    "projectName": "CallerFlujoDocFromSF",
+    "username": "admin@donmario.com.test2",
+    "id": "f72de8c0-ae3c-11e5-b76e-0fce2579dd02",
+    "namespace": "",
+    "environment": "sandbox",
+    "loginUrl": "https://test.salesforce.com/",
+    "workspace": "C:\\Users\\acordoba\\Documents\\GitHub",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "CustomObject",
+        "StaticResource"
+    ]
+}
